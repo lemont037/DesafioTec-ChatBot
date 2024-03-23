@@ -10,7 +10,7 @@
 > python main.py
 3. Interaja com o Bot.
 
-## Pipline ⚙️
+## Pipeline ⚙️
 A pipeline consiste em três passos:
 1. Converter os PDFs da pasta `ativos` para CSVs estruturados.
 2. Treinar o ChatBot com os dados encontrados.
